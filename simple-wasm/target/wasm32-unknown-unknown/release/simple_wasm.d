@@ -1,0 +1,1 @@
+/home/nash1111/engagement/blog_sample/call_wasm_from_vscode_extension/simple-wasm/target/wasm32-unknown-unknown/release/simple_wasm.wasm: /home/nash1111/engagement/blog_sample/call_wasm_from_vscode_extension/simple-wasm/src/lib.rs
